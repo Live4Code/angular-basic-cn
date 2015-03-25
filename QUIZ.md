@@ -8,4 +8,4 @@ panel的DOM模版在**index.html**中注释中有提到，参考alert指令的�
 页面中的ng-repeat会自动将增加的项显示出来。
 
 另一个是```$scope.randomPanel```,在这个方法中我们希望从panels数组变量中随机选择一个panel并附给$scope.panel。
-**index.html**第19行的panel指令负责将$scope.panel显示出来。完成这两个方法。
+**index.html**第22行的panel指令负责将$scope.panel显示出来。完成这两个方法。
