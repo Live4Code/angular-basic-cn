@@ -3,4 +3,4 @@
 **2.**提交并预览控件，通过表单改变控件的控制参数，更新的控件会根据参数实时动态更新。
 
 **3.** 翻页控件常见的功能还包括跳至首页和末页。相关按钮的样式在**main.js**中第13行给了例子，用它们取代掉template中链接a里面的previous和next。
-并且在```link```中改变selectPrevious和selectNext方法的内容来实现该功能。
+并且在`link`中改变 `selectPrevious` 和 `selectNext` 方法的内容来实现该功能。
